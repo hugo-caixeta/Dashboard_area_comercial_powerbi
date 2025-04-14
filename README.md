@@ -4,7 +4,7 @@ Este projeto apresenta um dashboard interativo desenvolvido no Power BI, focado 
 
 ## 🖼️ Visual do Dashboard
 
-Dashboard (imagens/)
+Dashboard [(imagens/)](https://github.com/hugo-caixeta/Dashboard_area_comercial_powerbi/tree/d5739562339595c2354a0d3d04550734732c1390/imagens)
 
 ## 📌 Sobre o Projeto
 
