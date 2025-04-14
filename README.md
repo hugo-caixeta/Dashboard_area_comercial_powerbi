@@ -4,7 +4,7 @@ Este projeto apresenta um dashboard interativo desenvolvido no Power BI, focado 
 
 ## 🖼️ Visual do Dashboard
 
-Dashboard (Dashboard_area_comercial_powerbi/imagens/)
+Dashboard (imagens/)
 
 ## 📌 Sobre o Projeto
 
