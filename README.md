@@ -1,4 +1,4 @@
-# 📊 Dashboard Área Comercial - Power BI
+# 📊 Área Comercial - Power BI
 
 Este projeto apresenta um dashboard interativo desenvolvido no Power BI, focado na análise de indicadores comerciais.
 
